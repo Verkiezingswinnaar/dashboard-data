@@ -1,3 +1,4 @@
 [
-  { "timestamp": "2026-02-21T10:00:00Z", "value": 10 }
+  { "timestamp": "2026-02-21T10:00:00Z", "value": 10 },
+  { "timestamp": "2026-02-21T10:01:00Z", "value": 12, "valueB": 18 }
 ]
